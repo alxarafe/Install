@@ -1,10 +1,45 @@
 {
     "name": "alxarafe/install",
-    "description": "",
+    "description": "Installation module",
+    "keywords": ["Alxarafe", "Install", "Module"],
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://alxarafe.com",
+    "support": {
+        "issues": "https://github.com/laravel/framework/issues",
+        "source": "https://github.com/laravel/framework"
+    },
     "authors": [
         {
-            "name": "Alxarafe Software",
-            "email": "info@alxarafe.com"
+            "name": "Cayetano H. Osma",
+            "email": "chernandez@alxarafe.com",
+            "homepage": "https://alxarafe.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Rafael San José Tovar",
+            "email": "rsanjose@alxarafe.com",
+            "homepage": "https://alxarafe.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Francesc Pineda Segarra",
+            "email": "fpìneda@alxarafe.com",
+            "homepage": "https://alxarafe.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Joshua Díaz Robayna",
+            "email": "jdiaz@alxarafe.com",
+            "homepage": "https://alxarafe.com",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:alxarafe/Install.git",
+            "reference": "master",
+            "packagist.org": false
         }
     ],
     "extra": {
